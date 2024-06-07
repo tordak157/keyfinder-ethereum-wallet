@@ -74,7 +74,7 @@ def process_address(api_key):
     return None
 
 def main():
-    api_key = 'sMlNfnJdFt5OMVrFeymqSAZGpl7Je_oI'
+    api_key = 'sMlNfnJdFt5OMVr***************'
     while True:
         result = process_address(api_key)
         if result:
